@@ -1,0 +1,4 @@
+[0m[[31merror[0m] [0m/Users/andyatkinson/orange-bus-form/app/controllers/Application.scala:9: too many arguments for method apply: ()play.twirl.api.HtmlFormat.Appendable in class index[0m
+[0m[[31merror[0m] [0m    Ok(views.html.index("Your new application is ready."))[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0mone error found[0m
